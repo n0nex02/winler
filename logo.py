@@ -18,5 +18,5 @@ def root():
      print("")
      print(f"                    \033[1;37mVersion:[0.0.2]")
      print("")
-     print("                    DEV:[n0nex03]")
+     print("                    DEV:[n0nex02]")
      time.sleep(0.5)  # Delay between color changes
